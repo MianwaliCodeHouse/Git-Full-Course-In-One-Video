@@ -56,7 +56,7 @@ git merge branch-name
 git clone url
 git pull origin branch-name
 git revert --abort
-git merge --about
+git merge --abort
 
 
 
